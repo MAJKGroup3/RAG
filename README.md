@@ -1,4 +1,4 @@
-# Basic GameRAG Pipeline
+# Document RAG Pipeline
 
 
 ## Credentials
