@@ -1,11 +1,11 @@
-#Basic GameRAG Pipeline
+# Basic GameRAG Pipeline
 
 
-#Credentials
+## Credentials
  - You will need to provide your own api keys for both ChromaDB and for AWS.
  - Place credentials into the chromadb section and aws.
 
-# Step 1
+## Step 1
 ```bash
 python -m venv venv
 source venv/bin/activate
