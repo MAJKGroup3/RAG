@@ -1,9 +1,6 @@
-boto3
-chromadb
-langchain
-langchain-community
-langchain-aws
-langchain-text-splitters
-langchain-experimental
-numpy==1.24.3
 requests
+beautifulsoup4
+PyPDF2
+sentence-transformers
+chromadb
+boto3
