@@ -1,9 +1,12 @@
 boto3
+beautifulsoup
 chromadb
+json
 langchain
 langchain-community
 langchain-aws
 langchain-text-splitters
 langchain-experimental
 numpy==1.24.3
+pypdf2
 requests
